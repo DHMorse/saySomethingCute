@@ -10,7 +10,7 @@ export default definePlugin({
     name: "Say Something Cute",
     description: "It changes the message input placeholder to 'Send something cute... ✨'",
     version: "1.0.1",
-    authors: [{ name: "404", id: 746842205347381338n }],
+    authors: [{ name: null, id: null }],
 
     start() {
         // Run initially
