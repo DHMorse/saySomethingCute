@@ -9,6 +9,10 @@ A Vencord plugin that changes the Discord message input placeholder from "Messag
 - Automatically reapplies after sending messages
 - Restores original placeholders when disabled
 
+## Theme Compatibility
+
+This plugin works especially well with the [Leancord theme](https://github.com/DHMorse/Leancord/tree/myChanges). When used together, the cute placeholder text complements Leancord's aesthetic, creating a more cohesive and charming Discord experience.
+
 ## Version
 
 Current version: 1.0.1
