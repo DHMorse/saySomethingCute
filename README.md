@@ -4,7 +4,7 @@ A Vencord plugin that changes the Discord message input placeholder from "Messag
 
 ## Features  
 
-- Changes the message input placeholder text to "Send something cute... ✨"  
+- Changes the message input placeholder text to "*Send something cute... ✨*"  
 - Applies cute styling with italic font and pink color  
 - Automatically reapplies after sending messages  
 - Restores original placeholders when disabled  
