@@ -1,6 +1,6 @@
 # Say Something Cute  
 
-A Vencord plugin that changes the Discord message input placeholder from "Message #channel" to "Send something cute... ✨"  
+A Vencord plugin that changes the Discord message input placeholder from "Message #channel" to "*Send something cute... ✨*"  
 
 ## Features  
 
